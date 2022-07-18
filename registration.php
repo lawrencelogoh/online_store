@@ -1,12 +1,4 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    
-    
-    <meta charset="UTF-8"/>
-    <title>Document</title>
-  </head>
-  <body>
+<?php include 'includes/header.php'  ?>
     <form method="POST" action="register.php">
       <p>Text</p>
       <input type="text">
@@ -19,6 +11,4 @@
 
     </form> 
     
-    
-  </body>
-</html>
+<?php include 'includes/footer.php'  ?>

@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-
-<body>
+<?php include 'includes/header.php'  ?>
   <h4>Cart</h4>
   <ul>
     
@@ -20,6 +15,4 @@
 
       <h4>Total Price: GHS 210.00</h4>
     
-</body>
-
-</html>
+<?php include 'includes/footer.php'  ?>

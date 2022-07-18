@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-
-<body>
+<?php include 'includes/header.php'  ?>
   <h4>Welcome <?php echo "username" ?></h4>
   <ul>
     
@@ -15,8 +10,5 @@
      }
 
      ?>
-  </ul>
-    
-</body>
-
-</html>
+  </ul
+<?php include 'includes/footer.php'  ?>
